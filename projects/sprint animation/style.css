@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    color: purple;
+    font-family: sans-serif;
+    text-shadow: 0.125rem 0.125rem gainsboro;
+}
+
+#sprint-image {
+    margin: 0 auto;
+    width: 256px;
+    height: 256px;
+    background-image: url("./sprint_animation.png");
+}
