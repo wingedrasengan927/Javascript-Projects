@@ -1,4 +1,3 @@
-//Reference: Angela Yu's 'The Complete Web Developer Bootcamp' Course on Udemy
 
 // add event listeners to all the button elements
 btnList = document.querySelectorAll(".btn");
